@@ -1,4 +1,4 @@
- // Aleena Zahra BDS-1B 23i-2514
+ //Pascals triangle
  
 #include<iostream>
 #include<cmath>
